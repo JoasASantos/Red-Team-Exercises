@@ -221,6 +221,9 @@ https://www.linkedin.com/posts/joas-antonio-dos-santos_redteamexercises-redteam-
 Red Team Exercises #70 - Using uncensored AI for AV/EDR evasion
 https://www.linkedin.com/posts/joas-antonio-dos-santos_redteam-redteamexercises-hacking-ugcPost-7496034090887020546-8k0E/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACQUGCUBpvQerFv0ut2s0MSLX9IwuKJJrbU
 
+RED TEAM EXERCISES #71 — USER-DEFINED REFLECTIVE LOADER
+https://lnkd.in/p/dpKPP2RA
+
 -------------------------------------------------------------------
 
 # OSINT-Red-Team-Exercises
